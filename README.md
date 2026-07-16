@@ -1,4 +1,6 @@
 Drone Battery Health Monitoring System 🚁🔋
+
+
 An end-to-end data engineering pipeline designed to monitor and analyze drone battery degradation in real-time. This project simulates telemetry data and visualizes battery health metrics to support predictive maintenance.
 
 🚀 Project Overview
